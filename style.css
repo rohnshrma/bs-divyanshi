@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.row{
+    margin: 0;
+}
+
+
+/* .title{
+    font-size: 60px;
+    text-align: center;
+    color:slateblue ;
+    font-weight: 700;
+    font-family: sans-serif;
+} */
+
+h3{
+    font-size: 30px;
+}
+
+
+.features{
+    padding: 70px 150px;
+    text-align: center;
+}
+.features i {
+    color:#ef8172;
+    font-size: 60px;
+    margin-bottom: 15px;
+}
+
+.cta{
+    text-align: center;
+    color: #fff;
+    background: #FF4C68;
+    padding: 70px 150px;
+}
+
+.cta h2{
+    font-size: 60px;
+}
